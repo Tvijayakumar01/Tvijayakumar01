@@ -76,7 +76,7 @@ With hands-on experience in Python, SQL, Tableau, and Power BI, I have worked on
 ## 🌱 What I’m Learning
 - Advanced Machine Learning Techniques
 - Data Engineering with AWS
-- NLP Applications in Business
+- Snowflake, DBT
 
 ---
 
