@@ -69,7 +69,7 @@ With hands-on experience in Python, SQL, Tableau, and Power BI, I have worked on
 
 ## 📈 GitHub Stats
 
-![Tanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanujvijayakumar&show_icons=true&theme=radical)
+![Tanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvijayakumar01&show_icons=true&theme=radical)
 
 ---
 
