@@ -1,89 +1,73 @@
-# 👋 Hi there! I'm Tanuj Vijayakumar
+# Hi, I'm Tanuj Vijayakumar 👋
 
-Welcome to my GitHub profile! I’m a passionate **Data Analyst and Machine Learning Enthusiast** with a strong foundation in data analytics, visualization, and predictive modeling. I strive to turn complex data into actionable insights that drive informed decision-making.
+Business Insight & Analytics Analyst based in Philadelphia, PA — I build the data infrastructure and BI systems that help businesses stop guessing and start deciding.
 
----
+Currently at PRN Physician Recommended Nutraceuticals, where I own end-to-end analytics across e-commerce and wholesale: Snowflake pipelines, dbt models, Power BI dashboards, and everything in between.
 
-## 🌟 About Me
-
-I'm currently pursuing my **Master of Science in Business Analytics** at the **University of Massachusetts Amherst**, where I've developed expertise in data analysis, machine learning, and business intelligence. My journey began with a Bachelor’s degree in **Computer Science and Business Systems**, equipping me with a unique blend of technical and business acumen.
-
-With hands-on experience in Python, SQL, Tableau, and Power BI, I have worked on real-world projects like:
-- **Used Car Price Prediction**: Developing pricing models using machine learning algorithms.
-- **Credit Card Customer Segmentation**: Identifying customer clusters to optimize marketing strategies.
-- **Diabetes Prediction**: Building predictive models to support healthcare initiatives.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanuj%20Vijayakumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanujvijayakumar)
+[![Email](https://img.shields.io/badge/Email-tanuj.official08@gmail.com-red?style=flat&logo=gmail)](mailto:tanuj.official08@gmail.com)
 
 ---
 
-## 💼 Work Experience
+## 🛠 Tech Stack
 
-### **EDI Data Analyst**  
-**Saksoft Inc.**, New Jersey, USA *(May 2024 – Aug 2024)*  
-- Developed Python-based modules for EDI transactions, reducing onboarding time by 25%.
-- Engineered robust data integration systems, improving accuracy and efficiency.
-- Visualized EDI analytics with Tableau, enhancing decision-making.
+**Data Platforms & Warehousing**
+Snowflake · Google BigQuery · NetSuite (SuiteQL, SuiteAnalytics) · Amazon Seller Central · Shopify · Recharge
 
-### **Data Analyst – Research and Development**  
-**Winglo Solutions Private Ltd.**, Chennai, India *(Aug 2022 – Jul 2023)*  
-- Automated dashboards for regulatory data extraction, reducing processing time by 25%.
-- Designed comprehensive visualizations to drive business insights and user satisfaction.
-- Collaborated with sales teams to forecast ROI with improved accuracy.
+**ELT & Data Modeling**
+Airbyte · dbt (incremental models, snapshots, tests) · SQL-based transformations · Data normalization & reconciliation
 
-### **Data Scientist Intern**  
-**Saksoft Limited**, Chennai, India *(Jun 2022 – Aug 2022)*  
-- Built advanced sales reports, boosting sales team efficiency by 20%.
-- Implemented data pipelines using Python, SQL, and Tableau, optimizing processes.
+**Business Intelligence**
+Power BI (DAX, M Query, Power Query) · Tableau · Executive KPI dashboards
+
+**Programming & Querying**
+Python (Pandas, NumPy) · SQL (CTEs, window functions) · R · Excel (Power Query, VBA)
+
+**Analytics**
+Revenue Analytics · Cohort Analysis · Subscription Metrics · Forecasting · Predictive Modeling · Financial Modeling
+
+---
+
+## 💼 Experience
+
+**Business Insight & Analytics Analyst — PRN Physician Recommended Nutraceuticals** *(Apr 2025 – Present)*
+- Unified NetSuite, Shopify/Recharge, Amazon Seller Central, and BigQuery into Snowflake across 4 brands, replacing fragmented reporting with a single trusted data foundation
+- Architected ELT pipelines via Airbyte and dbt processing 100M+ records, improving reconciliation confidence by 35%
+- Built Power BI dashboards (DAX, Power Query) cutting ad-hoc reporting requests by 40%
+- Automated reporting workflows with Finance, Sales, and Operations, eliminating 30%+ of manual effort
+- Delivered a board-level Amazon analytics review covering Subscribe & Save growth, ad account audit, and revenue trends
+
+**EDI Data Analyst — Saksoft Inc.** *(May 2024 – Aug 2024)*
+- Engineered a Python-based automation module (Pandas, NumPy) reducing onboarding time by 25%, processing time by 30%, and improving data accuracy by 25%
+- Architected a reusable EDI document framework enabling new trading partner integrations without per-client custom development
+- Built Tableau dashboards tracking EDI transaction volume, error rates, and processing trends
+
+**Data Analyst, R&D — Winglo Solutions Pvt. Ltd.** *(Aug 2022 – Jul 2023)*
+- Automated regulatory data extraction, cutting extraction time by 25%
+- Designed a unified product research dashboard lifting user satisfaction scores by 20%
+- Rebuilt ROI forecasting models by correcting upstream data errors, improving accuracy by 15%
+
+---
+
+## 📂 Featured Project
+
+### [Amazon E-Commerce Sales Analysis](https://github.com/Tvijayakumar01)
+`PostgreSQL` `Power BI` `DAX` `SQL`
+
+End-to-end analytics project on 20K+ sales records across a normalized 8-table schema.
+- Solved 20 business problems: revenue analysis, customer segmentation, inventory alerts, shipping delay detection
+- Built advanced SQL using CTEs, window functions, and stored procedures — CLTV rankings, YoY decline ratios, payment success rates
+- Delivered an interactive Power BI dashboard with DAX-driven KPIs, monthly trends, and targets vs. actuals
 
 ---
 
 ## 🎓 Education
 
-- **Master of Science, Business Analytics** *(Dec 2024)*  
-  University of Massachusetts Amherst  
-  **GPA**: 3.93  
-  Relevant Coursework: Data Visualization, Business Intelligence, Data Mining, Machine Learning, Marketing Strategy
-
-- **Bachelor of Technology, Computer Science and Business Systems** *(May 2023)*  
-  Anna University, Chennai, India  
-  **GPA**: 3.97  
-  Relevant Coursework: Statistical Modeling, Data Analytics, Advanced Media Analytics
+**M.S. Business Analytics** — University of Massachusetts Amherst *(Dec 2024)* · GPA: 3.93
+**B.Tech. Computer Science & Business Systems** — Anna University *(May 2023)* · GPA: 3.97
 
 ---
 
-## 🛠 Technical Skills
+## 📊 GitHub Stats
 
-- **Programming & Analysis**: Python (Pandas, NumPy, Scikit-learn), R
-- **Database Management**: SQL, PostgreSQL, AWS RDS
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-- **Business Tools**: SAP Analytics Cloud, Salesforce, MS Excel (Advanced)
-
----
-
-## 🔗 Connect with Me
-
-- **LinkedIn**: [Tanuj Vijayakumar](https://www.linkedin.com/in/tanujvijayakumar/)  
-- **Email**: tvijayakumar@umass.edu  
-- **GitHub**: [Tanuj Vijayakumar](https://github.com/tanujvijayakumar)
-
----
-
-## 📈 GitHub Stats
-
-![Tanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvijayakumar01&show_icons=true&theme=radical)
-
----
-
-## 🌱 What I’m Learning
-- Advanced Machine Learning Techniques
-- Data Engineering with AWS
-- Snowflake, DBT
-
----
-
-## 🤝 Let’s Collaborate!
-I’m always open to discussing:
-- Data Analytics and Visualization projects
-- Machine Learning research and implementations
-- Business Intelligence and Strategy solutions
-
-Feel free to reach out or explore my repositories for more!
+![Tanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tvijayakumar01&show_icons=true&theme=default&hide_border=true)
