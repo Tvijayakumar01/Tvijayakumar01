@@ -1,8 +1,8 @@
 # Hi, I'm Tanuj Vijayakumar 👋
 
-Business Insight & Analytics Analyst based in Philadelphia, PA — I build the data infrastructure and BI systems that help businesses stop guessing and start deciding.
+Business Insight & Analytics Analyst based in Philadelphia, PA. I build the data infrastructure and BI systems that help businesses stop guessing and start deciding.
 
-Currently at PRN Physician Recommended Nutraceuticals, where I own end-to-end analytics across e-commerce and wholesale: Snowflake pipelines, dbt models, Power BI dashboards, and everything in between.
+Currently at PRN Physician Recommended Nutraceuticals, where I own end to end analytics across e-commerce and wholesale: Snowflake pipelines, dbt models, Power BI dashboards, and everything in between.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanuj%20Vijayakumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanujvijayakumar)
 [![Email](https://img.shields.io/badge/Email-tanuj.official08@gmail.com-red?style=flat&logo=gmail)](mailto:tanuj.official08@gmail.com)
