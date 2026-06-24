@@ -49,25 +49,8 @@ Revenue Analytics · Cohort Analysis · Subscription Metrics · Forecasting · P
 
 ---
 
-## 📂 Featured Project
-
-### [Amazon E-Commerce Sales Analysis](https://github.com/Tvijayakumar01)
-`PostgreSQL` `Power BI` `DAX` `SQL`
-
-End-to-end analytics project on 20K+ sales records across a normalized 8-table schema.
-- Solved 20 business problems: revenue analysis, customer segmentation, inventory alerts, shipping delay detection
-- Built advanced SQL using CTEs, window functions, and stored procedures — CLTV rankings, YoY decline ratios, payment success rates
-- Delivered an interactive Power BI dashboard with DAX-driven KPIs, monthly trends, and targets vs. actuals
-
----
-
 ## 🎓 Education
 
 **M.S. Business Analytics** — University of Massachusetts Amherst *(Dec 2024)* · GPA: 3.93
 **B.Tech. Computer Science & Business Systems** — Anna University *(May 2023)* · GPA: 3.97
 
----
-
-## 📊 GitHub Stats
-
-![Tanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tvijayakumar01&show_icons=true&theme=default&hide_border=true)
